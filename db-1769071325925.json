@@ -1,0 +1,24 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Rahul",
+      "brokerId": 1
+    },
+    {
+      "id": 2,
+      "name": "Sneha",
+      "brokerId": 2
+    }
+  ],
+  "brokers": [
+    {
+      "id": 1,
+      "name": "Amit Sharma"
+    },
+    {
+      "id": 2,
+      "name": "Neha Gupta"
+    }
+  ]
+}
